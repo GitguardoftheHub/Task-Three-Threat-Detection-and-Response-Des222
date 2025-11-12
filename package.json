@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/GitguardoftheHub/Task-Three-Threat-Detection-and-Response-Des222/issues"
   },
-  "homepage": "https://github.com/GitguardoftheHub/Task-Three-Threat-Detection-and-Response-Des222#readme"
+  "homepage": "https://github.com/GitguardoftheHub/Task-Three-Threat-Detection-and-Response-Des222#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
